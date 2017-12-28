@@ -1,5 +1,3 @@
-README
-
 ### Coin Change Problem solved using the Ruby way
 
 We can defined our currency dynamically.
