@@ -12,7 +12,7 @@ class Change
     rescue ZeroDivisionError => e
       "Currency can not have zero value for any of the coins"
     ensure
-      "test"
+      "There is some issue..!! Please try again..!!"
     end
   end
 
